@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "03DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\psdata\\in"
+    }
+  }
+}
